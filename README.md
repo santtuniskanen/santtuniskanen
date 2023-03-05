@@ -4,3 +4,5 @@ I'm a 20-year-old student from Finland, currently studying Information and Commu
 Currently learning some **Rust**.
 
 I'm also a bit of a keyboard enthusiast, having built a Keychron Q1 with KTT Kang White V3 switches and Novelkeys BB-8 keycaps.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santtuniskanena&layout=compact)](https://github.com/santtuniskanen/github-readme-stats)
