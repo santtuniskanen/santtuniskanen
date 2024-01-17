@@ -21,7 +21,7 @@ If you happen to be a recruiter looking for new hires, feel free to message me o
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nextjs,tailwind,spring,go,docker,linux" />
-    <p>Hello world</p>
   </a>
+    <h>HJello</h>
 </p>
 
