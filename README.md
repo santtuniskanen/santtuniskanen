@@ -18,8 +18,9 @@ If you happen to be a recruiter looking for new hires, feel free to message me o
 
 ---
 ## Skills
-<p align="center>
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=go,spring,nextjs,docker,linux" />
-    </a>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,tailwind,spring,go,docker,linux" />
+  </a>
 </p>
+
