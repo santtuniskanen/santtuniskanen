@@ -11,3 +11,4 @@ Besides working on software applications, I like keyboards, music and the nature
 
 ---
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=santtuniskanen&show_icons=true&locale=en&layout=compact&theme=dark" alt="ovi" />
+My interests reside in the world of DevOps and Backend Development. I like to live in the terminal, using tools like Zellij (tmux clone written in Rust), Neovim with countless plugins, and many other UNIX tools.
