@@ -1,7 +1,7 @@
 # Santtu Niskanen
 
 Hello there! I'm a 21-year-old student based in Finland, currently studying Information Technology at Oulu University of Applied Sciences.
-Besides working on software applications, I like keyboards, music and the nature.
+Besides working on software applications, I like Star Wars, mechanical keyboards, music and the nature.
 
 ---
 
@@ -10,5 +10,4 @@ Besides working on software applications, I like keyboards, music and the nature
 </p>
 
 ---
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=santtuniskanen&show_icons=true&locale=en&layout=compact&theme=dark" alt="ovi" />
-My interests reside in the world of DevOps and Backend Development. I like to live in the terminal, using tools like Zellij (tmux clone written in Rust), Neovim with countless plugins, and many other UNIX tools.
+My interests reside in the world of DevOps and Backend Development. I like to live in the terminal, using tools like Zellij (tmux), Neovim with countless plugins, and many other UNIX tools.
