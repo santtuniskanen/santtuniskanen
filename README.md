@@ -6,15 +6,15 @@ Besides working on software applications, I like Star Wars, mechanical keyboards
 ---
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/D4D16AQFjCQIb_q9J4w/profile-displaybackgroundimage-shrink_350_1400/0/1687003869185?e=1710979200&v=beta&t=SBPYk4n3pTZ7iYHb0DWEwqC6SagleIBzwD3d5oAEZ_c">
+    <img src="linkedinheader.jpg">
 </p>
 
 ---
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santtuniskanen&hide_progress=true&theme=gruvbox">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santtuniskanen&hide_progress=true&theme=merko">
 <br clear="left">
 My interests reside in the world of DevOps and Backend Development. I like to live in the terminal, using tools like Zellij (tmux), Neovim with countless plugins, and many other UNIX tools.
 <br><br>
 If you happen to be a recruiter looking for new hires, feel free to message me on LinkedIn.
 
 ---
-<img src="">
+<img src="keyboard.jpg">
