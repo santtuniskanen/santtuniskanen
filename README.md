@@ -6,7 +6,7 @@ Besides working on software applications, I like Star Wars, mechanical keyboards
 ---
 
 <p align="center">
-    <img src="linkedinheader.jpg">
+    <img src="linkedinheader.jpeg">
 </p>
 
 ---
