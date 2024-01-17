@@ -15,3 +15,6 @@ Besides working on software applications, I like Star Wars, mechanical keyboards
 My interests reside in the world of DevOps and Backend Development. I like to live in the terminal, using tools like Zellij (tmux), Neovim with countless plugins, and many other UNIX tools.
 <br><br>
 If you happen to be a recruiter looking for new hires, feel free to message me on LinkedIn.
+
+---
+<img src="">
