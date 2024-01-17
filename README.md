@@ -17,11 +17,3 @@ My interests reside in the world of DevOps and Backend Development. I like to li
 If you happen to be a recruiter looking for new hires, feel free to message me on LinkedIn.
 
 ---
-## Skills
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,tailwind,spring,go,docker,linux" />
-  </a>
-    <h>HJello</h>
-</p>
-
