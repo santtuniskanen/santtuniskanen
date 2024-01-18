@@ -12,7 +12,8 @@ Besides working on software applications, I like Star Wars, mechanical keyboards
 ---
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santtuniskanen&hide_progress=true&theme=merko">
 <br clear="left">
-My interests reside in the world of DevOps and Backend Development. I like to live in the terminal, using tools like Zellij (tmux), Neovim with countless plugins, and many other UNIX tools.
+My interests reside in the world of DevOps and Backend Development. I like Linux and I like to live in the terminal.
+I'm currently writing a backend application with Golang, and I'm also in the process of learning how to run containerised workloads in Kubernetes.
 <br><br>
 If you happen to be a recruiter looking for new hires, feel free to message me on LinkedIn.
 
