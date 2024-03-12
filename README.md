@@ -14,7 +14,5 @@ Besides working on software applications, I like Star Wars, mechanical keyboards
 <br clear="left">
 My interests reside in the world of DevOps and Backend Development. I like <strong>Linux</strong> and I like to live in the terminal.
 I'm currently working on Backend focused Full Stack development and I'm spending extra time learning <strong>Jenkins</strong> and <strong>Kubernetes</strong>.
-<br><br>
-If you happen to be a recruiter looking for new hires, feel free to message me on LinkedIn.
 
 ---
