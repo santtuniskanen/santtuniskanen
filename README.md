@@ -1,6 +1,6 @@
 # Santtu Niskanen
 
-Hello there! I'm a 21-year-old student based in Finland, currently studying Information Technology at Oulu University of Applied Sciences.
+Hello there! I'm a 22-year-old student based in Finland, currently studying Information Technology at Oulu University of Applied Sciences.
 Besides working on software applications, I like Star Wars, mechanical keyboards, music and the nature.
 
 ---
