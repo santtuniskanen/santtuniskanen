@@ -2,4 +2,4 @@
 
 Hello there! I'm a Junior Software Developer. I like Backend Development, DevOps and Linux.
 
-I'm also into mechanical keyboards, Star Wars and video games.
+I'm also into World of Warcraft, Star Wars, Mechanical Keyboards and video games.
