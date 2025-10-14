@@ -2,4 +2,4 @@
 
 Hello there! I'm a Junior Software Developer.
 
-I'm also into World of Warcraft, Star Wars, Mechanical Keyboards and video games.
+I do primarily network programming with a little bit of systems programming on the side.
